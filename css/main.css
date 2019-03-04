@@ -1400,3 +1400,6 @@ select.error {
     }
 }
 /*End media queries*/
+.decorate{
+    color: white;
+}

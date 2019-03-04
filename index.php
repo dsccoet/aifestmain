@@ -816,6 +816,7 @@
                                  <li>Limited areas access</li>
                                  <li>Free food and beverages</li>
                                  <li><button onclick="popup('50-hrs-hackathon-004433');" class="but mt-30">Register Now</button><noscript id="tsNoJsMsg">Javascript on your browser is not enabled.</noscript><script src="//www.townscript.com/popup-widget/townscript-widget.nocache.js" type="text/javascript"></script></li>
+
                               </ul>
                            </li>
                         </ul>
@@ -824,10 +825,13 @@
                         <ul class="block-tickets">
                            <li>
                               <ul class="block-ticket active">
-                                 <li class="block-price"><span class="price"><span class="cur">₹</span>1,800</span><span class="block-type">All Days talks</span></li>
+                                 <li class="block-price"><span class="price"><span class="cur">₹</span>1,800</span><span class="block-type clear">All Days talks</span></li>
                                  <li>Access to the talks</li>
                                  <li>All days lunch</li>
-                                 <li><button onclick="popup('a-i-fest-20-tech-talks-122313');" class="but mt-30">Register Now</button><noscript id="tsNoJsMsg">Javascript on your browser is not enabled.</noscript><script src="//www.townscript.com/popup-widget/townscript-widget.nocache.js" type="text/javascript"></script></li>
+                                 <li id="clear"><button onclick="popup('a-i-fest-20-tech-talks-122313');" class="but mt-30">Register Now</button><noscript id="tsNoJsMsg">Javascript on your browser is not enabled.</noscript><script src="//www.townscript.com/popup-widget/townscript-widget.nocache.js" type="text/javascript"></script></li>
+                                 <li id="note">Link expires in:</li>
+                                 <li><p id="show"></p></li>
+                                 <li ><p id="show_2" class="decorate"></p></li>
                               </ul>
                            </li>
                         </ul>
