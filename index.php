@@ -308,8 +308,8 @@
                               <span>Google </span>
                            </p>
                            <ul class="block-social ">
-                              <li><a href="#"><i class="icon-twitter"></i></a></li>
-                              <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                              <li><a href="https://twitter.com/ajinkyakolhe112?s=09"><i class="icon-twitter"></i></a></li>
+                              <li><a href="https://www.linkedin.com/in/ajinkyakolhe112"><i class="icon-linkedin"></i></a></li>
                            </ul>
                         </div>
                      </div>
@@ -328,7 +328,7 @@
                            </p>
                            <ul class="block-social ">
                               <li><a href="#"><i class="icon-twitter"></i></a></li>
-                              <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                              <li><a href="https://www.linkedin.com/in/knarahari"><i class="icon-linkedin"></i></a></li>
                            </ul>
                         </div>
                      </div>
@@ -346,8 +346,8 @@
                               <span>Google intern </span>
                            </p>
                            <ul class="block-social ">
-                              <li><a href="#"><i class="icon-twitter"></i></a></li>
-                              <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                              <li><a href="https://twitter.com/shubhi_sareen?s=09"><i class="icon-twitter"></i></a></li>
+                              <li><a href="https://www.linkedin.com/in/shubhi-sareen"><i class="icon-linkedin"></i></a></li>
                            </ul>
                         </div>
                      </div>
@@ -365,8 +365,8 @@
                               <span>Open source contributor </span>
                            </p>
                            <ul class="block-social">
-                              <li><a href="#"><i class="icon-twitter"></i></a></li>
-                              <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                              <li><a href="https://twitter.com/umang_sha?s=09"><i class="icon-twitter"></i></a></li>
+                              <li><a href="https://www.linkedin.com/in/umang-sharma-321b4483"><i class="icon-linkedin"></i></a></li>
                            </ul>
                         </div>
                      </div>
@@ -384,8 +384,8 @@
                               <span>Turbolab technologies  </span>
                            </p>
                            <ul class="block-social ">
-                              <li><a href="#"><i class="icon-twitter"></i></a></li>
-                              <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                              <li><a href="https://twitter.com/enfageorge?s=09"><i class="icon-twitter"></i></a></li>
+                              <li><a href="https://www.linkedin.com/in/enfageorge"><i class="icon-linkedin"></i></a></li>
                            </ul>
                         </div>
                      </div>
@@ -403,8 +403,8 @@
                               <span>Skymind.ai </span>
                            </p>
                            <ul class="block-social ">
-                              <li><a href="#"><i class="icon-twitter"></i></a></li>
-                              <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                              <li><a href="https://twitter.com/farizrahman4u?s=09"><i class="icon-twitter"></i></a></li>
+                              <li><a href="https://www.linkedin.com/in/fariz-rahman"><i class="icon-linkedin"></i></a></li>
                            </ul>
                         </div>
                      </div>
@@ -422,8 +422,8 @@
                               <span>Tinkerhub </span>
                            </p>
                            <ul class="block-social ">
-                              <li><a href="#"><i class="icon-twitter"></i></a></li>
-                              <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                              <li><a href="https://twitter.com/meharmp?s=09"><i class="icon-twitter"></i></a></li>
+                              <li><a href="https://www.linkedin.com/in/meharmp"><i class="icon-linkedin"></i></a></li>
                            </ul>
                         </div>
                      </div>
@@ -442,8 +442,8 @@
                               <span>Full contact </span>
                            </p>
                            <ul class="block-social ">
-                              <li><a href="#"><i class="icon-twitter"></i></a></li>
-                              <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                              <li><a href="https://twitter.com/gksoriginal?s=09"><i class="icon-twitter"></i></a></li>
+                              <li><a href="https://www.linkedin.com/in/gopikrishnan-sasikumar-813a02121"><i class="icon-linkedin"></i></a></li>
                            </ul>
                         </div>
                      </div>
@@ -461,8 +461,8 @@
                               <span>Tinkerhub </span>
                            </p>
                            <ul class="block-social ">
-                              <li><a href="#"><i class="icon-twitter"></i></a></li>
-                              <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                              <li><a href="https://twitter.com/psbots?s=09"><i class="icon-twitter"></i></a></li>
+                              <li><a href="https://www.linkedin.com/in/praveensridhar"><i class="icon-linkedin"></i></a></li>
                            </ul>
                         </div>
                      </div>
