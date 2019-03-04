@@ -250,7 +250,7 @@
                   </div>
                   <div class="col-md-3 col-sm-3 text-right">
                      <div class="block-info-1">
-                        <a href="#tickets" class="scroll but"> Register Tickets Now</a>
+                        <a href="#register" class="scroll but"> Register Tickets Now</a>
                      </div>
                   </div>
                </div>
