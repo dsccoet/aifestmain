@@ -1109,8 +1109,8 @@
                      </div>
                      <div class="block-faq mb-50">
                         <h4 class="mb-10">How to reach College of Engineering Thalassery ?</h4>
-                        <p>If coming by bus, take a bus to Thalassery new bus stand from where you have to board a bus to Kuthuparamba and get off at Nayanar Road.<br>
-                        If coming by train, take a train to Thalassery Railway station from where you car take a taxi to the college or bus take to bus to Nayanar road.<br>
+                        <p>If coming by bus, take a bus to Thalassery new bus stand from where you have to board a bus to Kuthuparamba and get off at Nayanar Road and take a Rikshaw to the college.<br>
+                        If coming by train, take a train to Thalassery Railway station from where you car take a taxi to the college or bus take to bus to Nayanar roadand take a Rikshaw to the college.<br>
                         From the airport you may take a cab directly to College of Engineering Thalassery.</p>
 
                      </div>
