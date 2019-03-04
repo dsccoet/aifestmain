@@ -1099,12 +1099,12 @@
                <div class="row">
                   <div class="col-sm-8 col-sm-offset-2  ">
                      <div class="block-faq mb-50">
-                        <h4 class="mb-10">What is AI FEST 2.0 ?</h4>
+                        <h4 class="mb-10">What is AI Fest 2.0 ?</h4>
                         <p>AI FEST 2.0 is a conference based on artificial intelligence packed with exciting venets and talks by experts from various leading companies and 
                         organisation.</p>
                      </div>
                      <div class="block-faq mb-50">
-                        <h4 class="mb-10">How will A I FEST 2.0 benefit you ?</h4>
+                        <h4 class="mb-10">How will AI Fest 2.0 benefit you ?</h4>
                         <p>A I FEST 2.0 will help you to create connections with like minded people that might be useful to you . </p>
                      </div>
                      <div class="block-faq mb-50">
@@ -1173,7 +1173,7 @@
                   <div class="row">
                      <div class="col-sm-4 col-sm-offset-2">
                         <h2 class="sub-title-3 mb-30">About</h2>
-                        <p class="">Ad mortem te, Catalina, duci iussu consulis iam pridem oportebat, in te conferri pestem quam tu in nos omnes iam diu machinaris ac vitamus. </p>
+                        <p class="">AI fest 2.0 is an international event which builds a platform for AI enthusiasts to exhibit their project infront of industrial experts </p>
                         <ul class="block-social mt-20">
                            <li><a href="#"><i class="icon-facebook"></i></a></li>
                            <li><a href="#"><i class="icon-twitter"></i></a></li>
