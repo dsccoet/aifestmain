@@ -770,7 +770,7 @@
          <!--Tickest section-->
          <section id="tickets" class="tickets pt-120 pb-120">
             <!--Container-->
-            <div class="container">
+            <div class="container" id="register">
                <!--Row-->
                <div class="row">
                   <div class="col-sm-8 col-sm-offset-2 mb-130 text-center">
@@ -784,7 +784,7 @@
             <!--Container-->
             <div class="container">
                <!--Row-->
-               <div class="row vertical-align tickets">
+               <div class="row vertical-align tickets" >
                   <div class="col-sm-4 ">
                      <h3 class="sub-title-0  mb-20"><span class="gradient-text">Expo and other events</span><br>
                         <span class="gradient-text">are for free</span>
