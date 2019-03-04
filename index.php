@@ -1,3 +1,6 @@
+<?php
+   include_once('apply.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
    <head>
@@ -1145,10 +1148,10 @@
                      <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
                         <form method="post" class="subscribe-form form" action="#">
                            <div class="col-sm-8">
-                              <input placeholder="Enter your email address" value="" id="user-name" name="name" type="text">
+                              <input placeholder="Enter your email address" value="" id="user-name" name="email_newletter" type="text">
                            </div>
                            <div class="col-sm-4">
-                              <input value="Subscribe" class="but  submit" type="submit">
+                              <input value="Subscribe" class="but  submit" name="newsletter_submit" type="submit">
                            </div>
                            <div class="col-sm-12">
                               <p>* We don’t share your information with anyone.</p>
