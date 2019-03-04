@@ -1099,16 +1099,20 @@
                <div class="row">
                   <div class="col-sm-8 col-sm-offset-2  ">
                      <div class="block-faq mb-50">
-                        <h4 class="mb-10">What is web marketing ?</h4>
-                        <p>Web marketing refers to a broad category of advertising that takes many different forms, but generally involves any marketing activity conducted online. Marketers have shifted their efforts online because it tends to be significantly less expensive.</p>
+                        <h4 class="mb-10">What is AI FEST 2.0 ?</h4>
+                        <p>AI FEST 2.0 is a conference based on artificial intelligence packed with exciting venets and talks by experts from various leading companies and 
+                        organisation.</p>
                      </div>
                      <div class="block-faq mb-50">
-                        <h4 class="mb-10">What is digital advertising ?</h4>
-                        <p>Digital advertising, also called Internet advertising ("Internet marketing") is when businesses leverage Internet technologies to deliver promotional advertisements to consumers. </p>
+                        <h4 class="mb-10">How will A I FEST 2.0 benefit you ?</h4>
+                        <p>A I FEST 2.0 will help you to create connections with like minded people that might be useful to you . </p>
                      </div>
                      <div class="block-faq mb-50">
-                        <h4 class="mb-10">What is Internet marketing ?</h4>
-                        <p>Internet marketing, or online marketing, refers to advertising and marketing efforts that use the Web and email to drive direct sales via electronic commerce, in addition to sales leads from Web sites or emails. Internet marketing and online advertising efforts are typically used in conjunction with traditional.</p>
+                        <h4 class="mb-10">How to reach College of Engineering Thalassery ?</h4>
+                        <p>If coming by bus, take a bus to Thalassery new bus stand from where you have to board a bus to Kuthuparamba and get off at Nayanar Road.<br>
+                        If coming by train, take a train to Thalassery Railway station from where you car take a taxi to the college or bus take to bus to Nayanar road.<br>
+                        From the airport you may take a cab directly to College of Engineering Thalassery.</p>
+
                      </div>
                   </div>
                </div>
