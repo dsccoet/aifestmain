@@ -795,13 +795,13 @@
                      <div class="review-slider flexslider">
                         <ul class="slides">
                            <li>
-                              <blockquote>“ It’s an unlikely setting for an exquisite dining experience—served up by a couple straight out of a rom-com plot.“ </blockquote>
+                              <blockquote>“ The key to artificial intelligence has always been the representation. - Jeff Hawkins“ </blockquote>
                            </li>
                            <li>
-                              <blockquote>“ The food is plentiful and delicious, it is all part of the "old world" sort of dining experience.“ </blockquote>
+                              <blockquote>“ I absolutely don't think a sentient artificial intelligence is going to wage war against the human species. - Daniel H Wilson“ </blockquote>
                            </li>
                            <li>
-                              <blockquote>“ Huge portions, great food, fast service. This location obviously is always packed due to being in Times Sq.“ </blockquote>
+                              <blockquote>“I'd rather see artificial intelligence than no intelligence. - Michael Crichton“ </blockquote>
                            </li>
                         </ul>
                      </div>
