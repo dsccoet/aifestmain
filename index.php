@@ -426,13 +426,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-sm-3 pd-0">
-                  <div class="block-speaker">
-                     <div class="block-img overlay soft">
-
-                     </div>
-                  </div>
-               </div>
+               
                <div class="col-sm-3 pd-0">
                   <div class="block-speaker">
                      <div class="block-img overlay soft">
@@ -471,13 +465,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-sm-3 pd-0">
-                  <div class="block-speaker">
-                     <div class="block-img overlay soft">
-
-                     </div>
-                  </div>
-               </div>
+               
             </div>
          </section>
          <!--End speakers section-->
