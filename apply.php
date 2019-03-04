@@ -17,9 +17,9 @@
 
       if($email != "NIL"){
         $header1="From: no-reply@iedccoet.org";
-          $subject1="REGISTRATION SUCCESFULL - AI FEST 2.0";
+          $subject1="SUBSCRIPTION SUCCESFULL - AI FEST 2.0";
           $to1 = $email;
-          $message1 = "Hi,\n\nYour registration was succesfully recorded.\nWe are excited to have you onboard this event.\nOur team will get in touch with you soon.\nSee you then.\n\nRegards,\nTeam AI FEST 2.0,\nIEDC COET.";
+          $message1 = "Hi,\n\nYour subscription was succesfully recorded.\nWe are excited to have you onboard.\n\nRegards,\nTeam AI FEST 2.0,\nIEDC COET.";
 
           mail($to1,$subject1,$message1,$header1);
       }
