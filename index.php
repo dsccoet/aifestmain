@@ -541,10 +541,10 @@
                   <div class="col-sm-4 ">
                      <!--Tabs-->
                      <ul class="block-tabs">
-                        <li class="active"><strong>Day 1</strong>  <span>- 23 july 2019</span></li>
-                        <li class=""><strong>Day 2</strong>  <span>- 24 july 2019</span></li>
-                        <li class=""><strong>Day 3</strong>  <span>- 25 july 2019</span></li>
-                        <li class=""><strong>Day 4</strong>  <span>- 26 july 2019</span></li>
+                        <li class="active"><strong>Day 1</strong>  <span>- 20 March 2019</span></li>
+                        <li class=""><strong>Day 2</strong>  <span>- 21 March 2019</span></li>
+                        <li class=""><strong>Day 3</strong>  <span>- 22 March 2019</span></li>
+                        <li class=""><strong>Day 4</strong>  <span>- 23 March 2019</span></li>
                      </ul>
                      <a class="link mt-20 gradient-text scroll" href="#accom">Accommodation</a>
                   </div>
@@ -552,138 +552,191 @@
                      <ul class="block-tab">
                         <!--Tab-->
                         <li class="active ">
-                           <div class="block-date"><strong>Day 1</strong>  <span>- 23 july 2019</span></div>
+                           <div class="block-date"><strong>Day 1</strong>  <span>- 20 March 2019</span></div>
                            <div class="block-detail">
-                              <span class="time">08:00 - 10:00</span>
-                              <span class="topic">Conference Opening</span>
+                              <span class="time">08:00 AM- 10:00 AM</span>
+                              <span class="topic">Hackathon Registration</span>
                               <div class="block-text">
-                                 <p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
-                                 <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text ">Adam Blanco</a> </span>
-                              </div>
+                                 <p>Onsite registration for teams that have registered online.</p>
+                           </div>
                            </div>
                            <div class="block-detail">
-                              <span class="time">10:30 - 12:30</span>
-                              <span class="topic">AI  Foundations</span>
+                              <span class="time">10:00 AM - 11:00 AM</span>
+                              <span class="topic">Inaugration</span>
                               <div class="block-text">
-                                 <p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
+                                 <p></p>
                                  <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text ">Luca Palermo</a> </span>
                               </div>
                            </div>
                            <div class="block-detail">
-                              <span class="time">13:00</span>
-                              <span class="topic">Lunch Time</span>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">15:00 - 16:30</span>
-                              <span class="topic">Retouching</span>
-                              <div class="block-text">
-                                 <p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
-                                 <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text "> Lina Blamberg </a> </span>
-                              </div>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">17:00</span>
-                              <span class="topic">Coffee Break</span>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">17:30 - 18:00</span>
-                              <span class="topic">Raw Processing</span>
-                              <div class="block-text">
-                                 <p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
-                                 <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text "> Emilie Lippelt </a> </span>
-                              </div>
+                              <span class="time">11:00 AM</span>
+                              <span class="topic">Hackathon begins</span>
                            </div>
                         </li>
                         <!--Tab-->
                         <li>
-                           <div class="block-date"><strong>Day 2</strong>  <span>- 24 july 2019</span></div>
+                           <div class="block-date"><strong>Day 2</strong>  <span>- 21 March 2019</span></div>
                            <div class="block-detail">
-                              <span class="time">08:00 - 10:00</span>
-                              <span class="topic">Cameras + Gear</span>
+                              <span class="time">24 Hrs</span>
+                              <span class="topic">hackathon</span>
                               <div class="block-text">
-                                 <p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
-                                 <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text ">Adam Blanco</a> </span>
-                              </div>
+                                 <p>Continuation of the hackathon.</p>
+                              
                            </div>
+                        </div>
                            <div class="block-detail">
-                              <span class="time">10:30 - 12:30</span>
-                              <span class="topic">Night + Low Light</span>
+                              <span class="time">10:00 AM</span>
+                              <span class="topic">Events By School of AI, Kerala</span>
                               <div class="block-text">
                                  <p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
                                  <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text ">Luca Palermo</a> </span>
                               </div>
                            </div>
-                           <div class="block-detail">
-                              <span class="time">13:00</span>
-                              <span class="topic">Lunch Time</span>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">15:00 - 16:30</span>
-                              <span class="topic">Lighting</span>
-                              <div class="block-text">
-                                 <p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
-                                 <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text "> Lina Blamberg </a> </span>
-                              </div>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">17:00</span>
-                              <span class="topic">Coffee Break</span>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">17:30 - 18:00</span>
-                              <span class="topic">Color Correction</span>
-                              <div class="block-text">
-                                 <p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
-                                 <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text "> Emilie Lippelt </a> </span>
-                              </div>
-                           </div>
+                           
                         </li>
                         <!--Tab-->
                         <li>
-                           <div class="block-date"><strong>Day 3</strong>  <span>- 25 july 2019</span></div>
+                           <div class="block-date"><strong>Day 3</strong>  <span>- 22 March 2019</span></div>
                            <div class="block-detail">
-                              <span class="time">08:00 - 10:00</span>
-                              <span class="topic">HDR</span>
+                              <span class="time">08:00</span>
+                              <span class="topic">Registration and verification of Tech Talks + Expo</span>
                               <div class="block-text">
-                                 <p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
-                                 <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text ">Adam Blanco</a> </span>
+                                 
                               </div>
                            </div>
+
                            <div class="block-detail">
-                              <span class="time">10:30 - 12:30</span>
-                              <span class="topic">Masking + Compositing</span>
+                              <span class="time">8:00 AM - 4:00 PM</span>
+                              <span class="topic">Hackathon Final Day</span>
                               <div class="block-text">
-                                 <p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
-                                 <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text ">Luca Palermo</a> </span>
+                                 
                               </div>
                            </div>
+
                            <div class="block-detail">
-                              <span class="time">13:00</span>
-                              <span class="topic">Lunch Time</span>
+                              <span class="time">9:40 AM - 10:20 AM</span>
+                              <span class="topic">Welcome Note</span>
+                              <span class="speaker"> <a href="#" class="gradient-text "> <strong >Moosa Mehar</strong></a> </span>
                            </div>
+
                            <div class="block-detail">
-                              <span class="time">15:00 - 18:00</span>
-                              <span class="topic">Portraits</span>
+                              <span class="time">10:30 AM-11:00 AM</span>
+                              <span class="topic">Keynote Speech</span>
                               <div class="block-text ">
-                                 <p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
-                                 <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text "> Emilie Lippelt </a> </span>
-                              </div>
+                              </div>   
+                                 <span class="speaker"> <a href="#" class="gradient-text "> <strong >Moosa Mehar</strong></a> </span>
+                              
                            </div>
+
+                           <div class="block-detail">
+                              <span class="time">11:00 AM-11:10 AM</span>
+                              <span class="topic">Break</span>
+                           </div>
+
+                           <div class="block-detail">
+                              <span class="time">11:15 AM-12:00 PM</span>
+                              <span class="topic">Keynote Speech</span>
+                              <div class="block-text ">
+                              </div>   
+                                 <span class="speaker"> <a href="#" class="gradient-text "> <strong >Gopikrishnan S</strong></a> </span>
+                              
+                           </div>
+
+                           <div class="block-detail">
+                              <span class="time">12:10 PM-12:45 PM</span>
+                              <span class="topic">Keynote Speech</span>
+                              <div class="block-text ">
+                              </div> 
+                                 <span class="speaker"> <a href="#" class="gradient-text "> <strong >Enfa Rose George</strong></a> </span>
+                              </div>
+                           
+
+                           <div class="block-detail">
+                              <span class="time">01:40 PM-02:25 PM</span>
+                              <span class="topic">Keynote Speech</span>
+                              <div class="block-text ">
+                              </div>   
+                                 <span class="speaker"> <a href="#" class="gradient-text "> <strong >Shubi Sareen</strong></a> </span>
+                              
+                           </div>
+
+                              <div class="block-detail">
+                                 <span class="time">02:30 PM-03:15 PM</span>
+                                 <span class="topic">Keynote Speech</span>
+                                 <div class="block-text ">
+                                 </div>
+                                 <span class="speaker"> <a href="#" class="gradient-text "> <strong >Faris Rahman</strong></a> </span>
+                              
+                           </div>
+
+                           <div class="block-detail">
+                              <span class="time">04:00 PM-04:15 PM</span>
+                              <span class="topic">Break</span>
+                           </div>
+                           <div class="block-detail">
+                              <span class="time">04:20 PM-06:00 PM</span>
+                              <span class="topic">Hackathon Pitching</span>
+                           </div>
+
                         </li>
                         <!--Tab-->
                         <li>
-                           <div class="block-date"><strong>Day 4</strong>  <span>- 26 july 2019</span></div>
+                           <div class="block-date"><strong>Day 4</strong>  <span>- 23 March 2019</span></div>
                            <div class="block-detail">
-                              <span class="time">08:00 - 10:00</span>
-                              <span class="topic">Questions &amp; Answer</span>
+                              <span class="time">9:30 AM</span>
+                              <span class="topic">Keynote Speech</span>
+                              <span class="speaker"> <a href="#" class="gradient-text "> <strong >Ajinkya Kohli</strong></a> </span>
                            </div>
                            <div class="block-detail">
-                              <span class="time">10:30 - 11:00</span>
-                              <span class="topic">Closing Event</span>
+                              <span class="time">10:00 AM</span>
+                              <span class="topic">Keynote Speech</span>
+                              <!--<span class="speaker"> <a href="#" class="gradient-text "> <strong >Ajinkya Kohli</strong></a> </span>-->
                            </div>
                            <div class="block-detail">
-                              <span class="time">15:00 - 17:00</span>
-                              <span class="topic">After Party</span>
+                              <span class="time">10:30 AM</span>
+                              <span class="topic">Keynote Speech</span>
+                              <!--<span class="speaker"> <a href="#" class="gradient-text "> <strong >Ajinkya Kohli</strong></a> </span>-->
+                           </div>
+                           <div class="block-detail">
+                              <span class="time">11:00</span>
+                              <span class="topic">Keynote Speech</span>
+                             <!-- <span class="speaker"> <a href="#" class="gradient-text "> <strong >Ajinkya Kohli</strong></a> </span>-->
+                           </div>
+                           <div class="block-detail">
+                              <span class="time">11:30</span>
+                              <span class="topic">Keynote Speech</span>
+                              <span class="speaker"> <a href="#" class="gradient-text "> <strong >Kedarnath Narahari</strong></a> </span>
+                           </div>
+                           <div class="block-detail">
+                              <span class="time">12:00</span>
+                              <span class="topic">Live streaming</span>
+                              <span class="speaker"> <a href="#" class="gradient-text "> <strong >Siraj Raval</strong></a> </span>
+                           </div>
+                           <div class="block-detail">
+                              <span class="time">12:30</span>
+                              <span class="topic">Lunch</span>
+                           </div>
+                           <div class="block-detail">
+                              <span class="time">1:30</span>
+                              <span class="topic">Keynote Speech</span>
+                              <span class="speaker"> <a href="#" class="gradient-text "> <strong >Praveen Sreedhar</strong></a> </span>
+                           </div>
+                           <div class="block-detail">
+                              <span class="time">2:15</span>
+                              <span class="topic">Keynote Speech</span>
+                              <span class="speaker"> <a href="#" class="gradient-text "> <strong >Umang sharma</strong></a> </span>
+                           </div>
+                           <div class="block-detail">
+                              <span class="time">3:00</span>
+                              <span class="topic">Networking session</span>
+                           </div>
+                           <div class="block-detail">
+                              <span class="time">4:40</span>
+                              <span class="topic">Closing ceremony</span>
+                           </div>
+                           <div class="block-detail">
+                              <span class="time">5:40</span>
+                              <span class="topic">Robo dance</span>
                            </div>
                         </li>
                      </ul>
@@ -783,14 +836,14 @@
             <!--End container-->
          </section>
          <!--End tickets section-->
-         <!--Register section-->
+         <!--
          <section id="register" class="register pt-120 pb-120 overlay">
             <div class="background-img " >
                <img src="img/7.jpg" alt="">
             </div>
-            <!--Container-->
+            
             <div class="container">
-               <!--Row-->
+               
                <div class="row">
                   <div class="col-md-6 front-p">
                      <form class="registry-form form" method="post" action="#">
@@ -822,11 +875,11 @@
                      </form>
                   </div>
                </div>
-               <!--End row-->
+              
             </div>
-            <!--End container-->
+            
          </section>
-         <!--End register section-->
+         End register section-->
          <!--Sponsor section-->
          <section class="sponser pt-100 pb-100">
             <!--Container-->
@@ -1065,7 +1118,7 @@
                <div class="row">
                   <div class="col-sm-8 col-sm-offset-2  text-center mt-50">
                      <h2 class="sub-title-1">Didn’t find what your are looking for ?</h2>
-                     <p><a class="gradient-text" href="mailto:contact@aifest.com ">contact@aifest.com</a></p>
+                     <p><a class="gradient-text" href="mailto:help@iedccoet.org ">help@iedccoet.org</a></p>
                   </div>
                </div>
                <!--End row-->
