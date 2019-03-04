@@ -357,7 +357,7 @@
                   <div class="block-speaker">
                      <div class="block-img overlay soft">
                         <div class="background-img">
-                           <img src="img/guests/umang_sharma.jpeg" alt="">
+                           <img src="img/guests/umang_sharma.jpg" alt="">
                         </div>
                         <div class="block-info-2">
                            <p>
