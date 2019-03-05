@@ -908,22 +908,27 @@
                   <div class="col-sm-12  col-sm-push-2 text-center">
                      <div class="col-md-2 col-sm-2 ">
                         <div class="block-sponsor">
-                           <img src="img/logo/3.png" alt="">
+                           <img src="img/logo/soai.png" alt="">
                         </div>
                      </div>
                      <div class="col-md-2 col-sm-2">
                         <div class="block-sponsor">
-                           <img src="img/logo/1.png" alt="">
+                           <img src="img/logo/ksum.png" alt="">
                         </div>
                      </div>
                      <div class="col-md-2 col-sm-2">
                         <div class="block-sponsor">
-                           <img src="img/logo/4.png" alt="">
+                           <img src="img/logo/gdg.png" alt="">
                         </div>
                      </div>
                      <div class="col-md-2 col-sm-2">
                         <div class="block-sponsor">
-                           <img src="img/logo/2.png" alt="">
+                           <img src="img/logo/tinkerhub.png" alt="">
+                        </div>
+                     </div>
+                     <div class="col-md-2 col-sm-2">
+                        <div class="block-sponsor">
+                           <img src="img/logo/tpq.png" alt="">
                         </div>
                      </div>
                   </div>
@@ -955,24 +960,10 @@
                   <div class="col-sm-12  col-sm-push-2 text-center">
                      <div class="col-md-2 col-sm-2 ">
                         <div class="block-sponsor">
-                           <img src="img/logo/3.png" alt="">
+                           <img src="img/logo/ksum.png" alt="">
                         </div>
                      </div>
-                     <div class="col-md-2 col-sm-2">
-                        <div class="block-sponsor">
-                           <img src="img/logo/1.png" alt="">
-                        </div>
-                     </div>
-                     <div class="col-md-2 col-sm-2">
-                        <div class="block-sponsor">
-                           <img src="img/logo/4.png" alt="">
-                        </div>
-                     </div>
-                     <div class="col-md-2 col-sm-2">
-                        <div class="block-sponsor">
-                           <img src="img/logo/2.png" alt="">
-                        </div>
-                     </div>
+                     
                   </div>
                </div>
                <!--End row-->
