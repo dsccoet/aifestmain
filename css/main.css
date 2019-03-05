@@ -735,11 +735,11 @@ select.error {
 /* Sponsors section*/
 
 .block-sponsor img {
-    opacity: .2;
+    /*opacity: 1;*/
     width: 85%;
 }
 .block-sponsor img:hover {
-    opacity: .4;
+    /*opacity: 1;*/
     transform: scale(1.05);
     -webkit-transform: scale(1.05);
     -ms-transform: scale(1.05);

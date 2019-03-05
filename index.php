@@ -905,7 +905,7 @@
             <div class="container">
                <!--Row-->
                <div class="row">
-                  <div class="col-sm-12  col-sm-push-2 text-center">
+                  <div class="col-sm-6  col-sm-push-2 text-center">
                      <div class="col-md-2 col-sm-2 ">
                         <div class="block-sponsor">
                            <img src="img/logo/soai.png" alt="">
