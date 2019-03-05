@@ -795,13 +795,13 @@
                      <div class="review-slider flexslider">
                         <ul class="slides">
                            <li>
-                              <blockquote>“ The key to artificial intelligence has always been the representation. - Jeff Hawkins“ </blockquote>
+                              <blockquote>“ The key to artificial intelligence has always been the representation.“ - Jeff Hawkins </blockquote>
                            </li>
                            <li>
-                              <blockquote>“ I absolutely don't think a sentient artificial intelligence is going to wage war against the human species. - Daniel H Wilson“ </blockquote>
+                              <blockquote>“ I absolutely don't think a sentient artificial intelligence is going to wage war against the human species.“ - Daniel H Wilson </blockquote>
                            </li>
                            <li>
-                              <blockquote>“I'd rather see artificial intelligence than no intelligence. - Michael Crichton“ </blockquote>
+                              <blockquote>“I'd rather see artificial intelligence than no intelligence.“ - Michael Crichton </blockquote>
                            </li>
                         </ul>
                      </div>
@@ -1007,21 +1007,21 @@
             <!--End container-->
          </section>
          <!--End contact section-->
-         <!--Accom section-->
+         <!--Accom section
          <section  id="accom" class="accom pt-120 pb-120 brd-bottom">
-            <!--Container-->
+            
             <div class="container">
-               <!--Row-->
+               
                <div class="row">
                   <div class="col-sm-8 col-sm-offset-2 mb-100 text-center ">
                      <h1 class="title">Accommodation &amp; Travel </h1>
                      <p class="title-lead mt-10 mb-20">Accommodation and travel info - information below or email us for further help.</p>
                   </div>
                </div>
-               <!--End row-->
+               
             </div>
-            <!--End container-->
-            <!--Container-->
+            
+            
             <div class="container">
                <div class="row">
                   <div class="col-sm-4 col-sm-offset-2 text-center">
@@ -1055,7 +1055,7 @@
                      </a>
                   </div>
                </div>
-               <!--End row-->
+               
                <div class="row mt-100">
                   <div class="col-sm-4 col-sm-offset-2 text-center">
                      <div class="block-img">
@@ -1078,11 +1078,11 @@
                      </p>
                   </div>
                </div>
-               <!--End row-->
+               
             </div>
-            <!--End container-->
+            
          </section>
-         <!--End accom section-->
+         End accom section-->
          <!--Faq section-->
          <section id="faq" class="faq pt-120 pb-120 brd-bottom">
             <!--Container-->
