@@ -74,7 +74,6 @@
                               <li><a class="scroll" href="#expo">Expo Registration</a></li>
                               <li><a class="scroll" href="#location">Location</a></li>
                               <li><a class="scroll" href="#faq">FAQ</a></li>
-                              <li><a class="scroll" href="#gallery">Gallery</a></li>
                            </ul>
                         </nav>
                      </div>
@@ -93,7 +92,7 @@
                      <div class="col-sm-12 text-center">
 
                         <h1 class="large mb-10">AI Fest 2.0</h1>
-                        <p class="uppercase ">TAGLINE GOES HERE</p>
+                        <p class="uppercase ">Next is Now</p>
                         <a href="#register" class="but scroll "> Register Now</a>
                      </div>
                   </div>
@@ -1079,8 +1078,8 @@
                      </div>
                      <div class="block-faq mb-50">
                         <h4 class="mb-10">How to reach College of Engineering Thalassery ?</h4>
-                        <p>If coming by bus, take a bus to Thalassery new bus stand from where you have to board a bus to Kuthuparamba and get off at Nayanar Road and take a Rikshaw to the college.<br>
-                        If coming by train, take a train to Thalassery Railway station from where you car take a taxi to the college or bus take to bus to Nayanar roadand take a Rikshaw to the college.<br>
+                        <p>If coming by bus, from Thalassery new bus stand take a bus to Kuthuparamba and get off at Nayanar Road and take a Rikshaw to the college.<br>
+                        If coming by train, take a train to Thalassery Railway station from where you can take a taxi to the college or  take a bus to Nayanar road and take a Rikshaw to the college.<br>
                         From the airport you may take a cab directly to College of Engineering Thalassery.</p>
 
                      </div>
@@ -1145,17 +1144,11 @@
                         <h2 class="sub-title-3 mb-30">About</h2>
                         <p class="">AI fest 2.0 is an international event which builds a platform for AI enthusiasts to exhibit their project infront of industrial experts </p>
                         <ul class="block-social mt-20">
-                           <li><a href="#"><i class="icon-facebook"></i></a></li>
-                           <li><a href="#"><i class="icon-twitter"></i></a></li>
-                           <li><a href="#"><i class="icon-youtube"></i></a></li>
-                           <li><a href="#"><i class="icon-gplus"></i></a></li>
-                           <li><a href="#"><i class="icon-instagram-1"></i></a></li>
+                           <li><a href="https://twitter.com/iedc_coet"><i class="icon-twitter"></i></a></li>
+                           <li><a href="https://instagram.com/ai_fest2.0_official?utm_source=ig_profile_share&igshid=y2ycij5mhgfm"><i class="icon-instagram-1"></i></a></li>
                         </ul>
                      </div>
-                     <div class="col-sm-4">
-                        <h2 class="sub-title-3 mb-30">Instagram</h2>
-                        <ul class="insta-Feed" id="instafeed"></ul>
-                     </div>
+                     
                   </div>
                </div>
                <!--End container-->
