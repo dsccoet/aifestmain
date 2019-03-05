@@ -853,6 +853,7 @@
                <div class="row" id="expo">
                   <div class="col-sm-12  text-center  front-p">
                      <h1 class="title">Register for exhibiting your project in the expo. </h1>
+                     <br><br>
                      <a href="#register" class="but scroll "> Register Now</a>
                   </div>
                </div>
