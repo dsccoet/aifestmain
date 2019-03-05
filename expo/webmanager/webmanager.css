@@ -1,0 +1,84 @@
+body{
+	width: 100%;
+	height: auto;
+}
+.container{
+	text-align: center;
+}
+table, th, td {
+    border: 1px solid black;
+}
+
+.table-control{
+	padding: 15px;
+}
+
+.button-control{
+	display: inline-block;
+	margin-top: 100px;
+	height:60px;
+	width:500px;
+}
+
+.login-link:link, .login-link:visited, .logout-link:link, .logout-link:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+.login-link:hover, .login-link:active, .logout-link:hover, .logout-link:active {
+  background-color: red;
+}
+
+.back-link:link, .back-link:visited {
+  background-color: #00cc00;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+.back-link:hover, .back-link:active,{
+  background-color: #00ff00;
+}
+
+.export-btn {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #555555;
+}
+
+@media screen and (max-width: 580px) {
+      .button-control{
+      	display: inline-block;
+		margin-top: 100px;
+		height:80px;
+		width:200px;
+      }
+
+      .login-link,.logout-link{
+      	margin-top: 20px;
+      	margin-left: 20px;
+      }
+
+      .back-link{
+      	margin-left: 20px;
+      }
+
+      .export-btn{
+      	margin-left: 20px;
+      }
+}

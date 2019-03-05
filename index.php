@@ -847,55 +847,13 @@
                   <div class="col-sm-12  text-center  front-p">
                      <h1 class="title">Register for exhibiting your project in the expo. </h1>
                      <br><br>
-                     <a href="#register" class="but scroll "> Register Now</a>
+                     <a href="./expo" class="but scroll "> Register Now</a>
                   </div>
                </div>
                <!--End row-->
             </div>
             <!--End container-->
          </section>
-
-         <!--
-         <section id="register" class="register pt-120 pb-120 overlay">
-            <div class="background-img " >
-               <img src="img/7.jpg" alt="">
-            </div>
-            
-            <div class="container">
-               
-               <div class="row">
-                  <div class="col-md-6 front-p">
-                     <form class="registry-form form" method="post" action="#">
-                        <h2 class="sub-title-1 mb-30">Register your coming at Events Conference Jan 2019</h2>
-                        <div class="col-sm-6">
-                           <input placeholder="Your Name" value="" id="name" name="name" type="text" required>
-                        </div>
-                        <div class="col-sm-6">
-                           <input placeholder="Your Email" value="" id="email" name="email" type="text" required>
-                        </div>
-                        <div class="col-sm-6">
-                           <input placeholder="Phone number" value="" id="phone" name="phone" type="text">
-                        </div>
-                        <div class="col-sm-6">
-                           <div class="block-select">
-                              <select required>
-                                 <option value="">Choose Ticket</option>
-                                 <option value="120">One Day Ticket</option>
-                                 <option value="590">All Days Ticket</option>
-                              </select>
-                           </div>
-                        </div>
-                        <div class="col-sm-12">
-                           <input value="Get your ticket now" class=" but submit" type="submit">
-                        </div>
-                        <div class="col-sm-12">
-                           <p>* We don’t share your information with anyone.</p>
-                        </div>
-                     </form>
-                  </div>
-               </div>
-              
-            </div>
             
          </section>
          End register section-->
@@ -1211,10 +1169,6 @@
                      </div>
                      <div class="col-md-6 ">
                         <ul class="block-legal">
-                           <li><a href="#">Privacy Policy</a>
-                           <li><a  href="#">Terms of Use</a></li>
-                           <li><a  href="#">About</a></li>
-                           <li><a  href="#">Legal</a></li>
                            <li><span><a class="gradient-text scroll" href="#wrapper">Back To Top</a></span></li>
                         </ul>
                      </div>
