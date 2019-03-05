@@ -71,6 +71,7 @@
                               <li><a class="scroll" href="#topics">Topics</a></li>
                               <li><a class="scroll" href="#schedule">Schedule</a></li>
                               <li><a class="scroll" href="#tickets">Tickets</a></li>
+                              <li><a class="scroll" href="#expo">Expo Registration</a></li>
                               <li><a class="scroll" href="#location">Location</a></li>
                               <li><a class="scroll" href="#faq">FAQ</a></li>
                               <li><a class="scroll" href="#gallery">Gallery</a></li>
@@ -843,6 +844,25 @@
             <!--End container-->
          </section>
          <!--End tickets section-->
+         <!--Expo registraion section-->
+         <section class="counter pt-120 pb-120 overlay parallax">
+            <div class="background-img" >
+               <img src="img/keyboard.png" alt="">
+            </div>
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row" id="expo">
+                  <div class="col-sm-12  text-center  front-p">
+                     <h1 class="title">Register for exhibiting your project in the expo. </h1>
+                     <a href="#register" class="but scroll "> Register Now</a>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+         </section>
+
          <!--
          <section id="register" class="register pt-120 pb-120 overlay">
             <div class="background-img " >
