@@ -811,7 +811,7 @@
                         <ul class="block-tickets overlap">
                            <li>
                               <ul class="block-ticket ">
-                                 <li class="block-price"><span class="price"><span class="cur">₹</span>2,000</span><span class="block-type">Hackathon</span></li>
+                                 <li class="block-price"><span class="block-type">Hackathon</span><span class="price"><span class="cur">₹</span>800</span><span class="block-type">per person</span></li>
                                  <li>chance to win 50,000 prize money</li>
                                  <li>Limited areas access</li>
                                  <li>Free food and beverages</li>
