@@ -40,7 +40,7 @@
                <ul class="slides">
                   <li>
                      <div class="background-img">
-                        <img src="img/1.jpg" alt="">
+                        <img src="img/concert.png" alt="">
                      </div>
                   </li>
                </ul>
@@ -591,8 +591,8 @@
                               <span class="time">10:00 AM</span>
                               <span class="topic">Events By School of AI, Kerala</span>
                               <div class="block-text">
-                                 <p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
-                                 <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text ">Luca Palermo</a> </span>
+                                 <!--<p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
+                                 <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text ">Luca Palermo</a> </span>-->
                               </div>
                            </div>
                            
@@ -619,7 +619,7 @@
                            <div class="block-detail">
                               <span class="time">9:40 AM - 10:20 AM</span>
                               <span class="topic">Welcome Note</span>
-                              <span class="speaker"> <a href="#" class="gradient-text "> <strong >Moosa Mehar</strong></a> </span>
+                              <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Moosa Mehar</strong></a> </span>
                            </div>
 
                            <div class="block-detail">
@@ -627,7 +627,7 @@
                               <span class="topic">Keynote Speech</span>
                               <div class="block-text ">
                               </div>   
-                                 <span class="speaker"> <a href="#" class="gradient-text "> <strong >Moosa Mehar</strong></a> </span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Moosa Mehar</strong></a> </span>
                               
                            </div>
 
@@ -641,7 +641,7 @@
                               <span class="topic">Keynote Speech</span>
                               <div class="block-text ">
                               </div>   
-                                 <span class="speaker"> <a href="#" class="gradient-text "> <strong >Gopikrishnan S</strong></a> </span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Gopikrishnan S</strong></a> </span>
                               
                            </div>
 
@@ -650,7 +650,7 @@
                               <span class="topic">Keynote Speech</span>
                               <div class="block-text ">
                               </div> 
-                                 <span class="speaker"> <a href="#" class="gradient-text "> <strong >Enfa Rose George</strong></a> </span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Enfa Rose George</strong></a> </span>
                               </div>
                            
 
@@ -659,7 +659,7 @@
                               <span class="topic">Keynote Speech</span>
                               <div class="block-text ">
                               </div>   
-                                 <span class="speaker"> <a href="#" class="gradient-text "> <strong >Shubi Sareen</strong></a> </span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Shubi Sareen</strong></a> </span>
                               
                            </div>
 
@@ -668,7 +668,7 @@
                                  <span class="topic">Keynote Speech</span>
                                  <div class="block-text ">
                                  </div>
-                                 <span class="speaker"> <a href="#" class="gradient-text "> <strong >Faris Rahman</strong></a> </span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Faris Rahman</strong></a> </span>
                               
                            </div>
 
@@ -688,7 +688,7 @@
                            <div class="block-detail">
                               <span class="time">9:30 AM</span>
                               <span class="topic">Keynote Speech</span>
-                              <span class="speaker"> <a href="#" class="gradient-text "> <strong >Ajinkya Kohli</strong></a> </span>
+                              <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Ajinkya Kohli</strong></a> </span>
                            </div>
                            <div class="block-detail">
                               <span class="time">10:00 AM</span>
@@ -708,12 +708,12 @@
                            <div class="block-detail">
                               <span class="time">11:30</span>
                               <span class="topic">Keynote Speech</span>
-                              <span class="speaker"> <a href="#" class="gradient-text "> <strong >Kedarnath Narahari</strong></a> </span>
+                              <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Kedarnath Narahari</strong></a> </span>
                            </div>
                            <div class="block-detail">
                               <span class="time">12:00</span>
                               <span class="topic">Live streaming</span>
-                              <span class="speaker"> <a href="#" class="gradient-text "> <strong >Siraj Raval</strong></a> </span>
+                              <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Siraj Raval</strong></a> </span>
                            </div>
                            <div class="block-detail">
                               <span class="time">12:30</span>
@@ -722,12 +722,12 @@
                            <div class="block-detail">
                               <span class="time">1:30</span>
                               <span class="topic">Keynote Speech</span>
-                              <span class="speaker"> <a href="#" class="gradient-text "> <strong >Praveen Sreedhar</strong></a> </span>
+                              <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Praveen Sreedhar</strong></a> </span>
                            </div>
                            <div class="block-detail">
                               <span class="time">2:15</span>
                               <span class="topic">Keynote Speech</span>
-                              <span class="speaker"> <a href="#" class="gradient-text "> <strong >Umang sharma</strong></a> </span>
+                              <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Umang sharma</strong></a> </span>
                            </div>
                            <div class="block-detail">
                               <span class="time">3:00</span>
@@ -753,7 +753,7 @@
          <!--Counter section-->
          <section class="counter pt-120 pb-120 overlay parallax">
             <div class="background-img" >
-               <img src="img/6.jpg" alt="">
+               <img src="img/keyboard.png" alt="">
             </div>
             <!--Container-->
             <div class="container">
@@ -996,8 +996,8 @@
                   <div class="col-md-5 col-md-offset-7 col-sm-5 col-sm-offset-7">
                      <div class="block-info-3">
                         <p>
-                           Phone: PHONE <br>
-                           Email : <a href="mailto:MAIL" class="gradient-text">MAIL</a>
+                           Phone: 9961362773 | 7012214123 <br>
+                           Email : <a href="mailto:MAIL" class="gradient-text">aparnaajay@iedccoet.org</a>
                         </p>
                      </div>
                   </div>
