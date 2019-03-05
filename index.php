@@ -567,10 +567,6 @@
                            <div class="block-detail">
                               <span class="time">10:00 AM - 11:00 AM</span>
                               <span class="topic">Inaugration</span>
-                              <div class="block-text">
-                                 <p></p>
-                                 <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text ">Luca Palermo</a> </span>
-                              </div>
                            </div>
                            <div class="block-detail">
                               <span class="time">11:00 AM</span>
@@ -591,10 +587,7 @@
                            <div class="block-detail">
                               <span class="time">10:00 AM</span>
                               <span class="topic">Events By School of AI, Kerala</span>
-                              <div class="block-text">
-                                 <!--<p>Nihilne te nocturnum praesidium Palati, nihil urbis vigilae, nihil timor populi, nihil concursus velit omnium, nihil hic muntissimus habendi senatus locus, nihil horum ora vultusque moverunt, patere tua consilia non sentis constrictam nihil hic muntissimus.</p>
-                                 <span class="speaker"> <strong >Speaker</strong> : <a href="#" class="gradient-text ">Luca Palermo</a> </span>-->
-                              </div>
+                              
                            </div>
                            
                         </li>
