@@ -875,7 +875,7 @@
             <div class="container">
                <!--Row-->
                <div class="row">
-                  <div class="col-sm-12  col-sm-push-2 text-center">
+                  <div class="col-sm-12 text-center">
                      <div class="col-md-2 col-sm-2 ">
                         <div class="block-sponsor">
                            <img src="img/logo/soai.png" alt="">
@@ -896,7 +896,7 @@
                            <img src="img/logo/tinkerhub.png" alt="">
                         </div>
                      </div>
-                     <!--<div class="col-md-2 col-sm-2">
+                     <div class="col-md-2 col-sm-2">
                         <div class="block-sponsor">
                            <img src="img/logo/tpq.png" alt="">
                         </div>
@@ -905,7 +905,7 @@
                         <div class="block-sponsor">
                            <img src="img/logo/hc.png" alt="">
                         </div>
-                     </div>-->
+                     </div>
                   </div>
                </div>
                <!--End row-->
@@ -933,7 +933,7 @@
                <!--Row-->
                <div class="row">
                   <div class="col-sm-12  col-sm-push-2 text-center">
-                     <div class="col-md-2 col-sm-2 text-center">
+                     <div class="col-md-2 col-sm-2 ">
                         <div class="block-sponsor">
                            <img src="img/logo/ksum.png" alt="">
                         </div>
