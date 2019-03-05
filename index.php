@@ -846,9 +846,7 @@
          <!--End tickets section-->
          <!--Expo registraion section-->
          <section class="counter pt-120 pb-120 overlay parallax">
-            <div class="background-img" >
-               <img src="img/keyboard.png" alt="">
-            </div>
+            
             <!--Container-->
             <div class="container">
                <!--Row-->
