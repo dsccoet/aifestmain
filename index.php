@@ -931,6 +931,11 @@
                            <img src="img/logo/tpq.png" alt="">
                         </div>
                      </div>
+                     <div class="col-md-2 col-sm-2">
+                        <div class="block-sponsor">
+                           <img src="img/logo/hc.png" alt="">
+                        </div>
+                     </div>
                   </div>
                </div>
                <!--End row-->
