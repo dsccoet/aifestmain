@@ -856,7 +856,7 @@
          </section>
             
          </section>
-         End register section-->
+         <!--End register section-->
          <!--Sponsor section-->
          <section class="sponser pt-100 pb-100">
             <!--Container-->
