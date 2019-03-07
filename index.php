@@ -362,7 +362,7 @@
                         <div class="block-info-2">
                            <p>
                               <strong>Umang sharma</strong>
-                              <span>Open source contributor </span>
+                              <span>Official Contributor - Tensorflow, Datalab </span>
                            </p>
                            <ul class="block-social">
                               <li><a href="https://twitter.com/umang_sha?s=09"><i class="icon-twitter"></i></a></li>
@@ -399,7 +399,7 @@
                         </div>
                         <div class="block-info-2">
                            <p>
-                              <strong>Faris rahman </strong>
+                              <strong>Fariz rahman </strong>
                               <span>Skymind.ai </span>
                            </p>
                            <ul class="block-social ">
