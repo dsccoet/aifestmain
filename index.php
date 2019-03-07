@@ -210,7 +210,7 @@
                         <p>
                            <strong>LOCATION</strong>
                            <span>COET
-                           Talassery, Kannur </span>
+                           Thalassery, Kannur </span>
                         </p>
                      </div>
                   </div>
