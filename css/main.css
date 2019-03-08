@@ -746,7 +746,17 @@ select.error {
     -ms-transform: scale(1.05);
     -moz-transform: scale(1.05);
 }
-
+.block-sponsor-1 img {
+    /*opacity: 1;*/
+    width: 85%;
+}
+.block-sponsor-1 img:hover {
+    /*opacity: 1;*/
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+}
 /* End sponsors section*/
 
 /* Contact section*/
@@ -1012,6 +1022,9 @@ select.error {
     .block-sponsor img {
         width: 100%;
     }
+    .block-sponsor-1 img {
+        width: 100%;
+    }
     .location {
         padding-top: 100px !important;
         padding-bottom: 100px !important;
@@ -1030,6 +1043,9 @@ select.error {
         width: 100%
     }
     .block-sponsor img {
+        width: 100%;
+    }
+    .block-sponsor-1 img {
         width: 100%;
     }
 }
@@ -1166,6 +1182,9 @@ select.error {
     .block-sponsor img {
         width: 100%;
     }
+    .block-sponsor-1 img {
+        width: 100%;
+    }
     .location {
         padding-top: 100px !important;
         padding-bottom: 100px !important;
@@ -1254,6 +1273,9 @@ select.error {
         margin-top: 100px;
     }
     .block-sponsor img {
+        width: 50%;
+    }
+    .block-sponsor-1 img {
         width: 50%;
     }
     .registry-form .submit {
@@ -1374,6 +1396,9 @@ select.error {
         margin-top: 50px;
     }
     .block-sponsor img {
+        width: 50%;
+    }
+    .block-sponsor-1 img {
         width: 50%;
     }
     .block-map {

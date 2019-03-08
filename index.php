@@ -327,7 +327,6 @@
                               <span>Microsoft </span>
                            </p>
                            <ul class="block-social ">
-                              <li><a href="#"><i class="icon-twitter"></i></a></li>
                               <li><a href="https://www.linkedin.com/in/knarahari"><i class="icon-linkedin"></i></a></li>
                            </ul>
                         </div>
@@ -920,9 +919,9 @@
             <div class="container">
                <!--Row-->
                <div class="row">
-                  <div class="col-sm-12  col-sm-push-2 text-center">
+                  <div class="col-sm-12  col-sm-push-5 text-center">
                      <div class="col-md-2 col-sm-2 ">
-                        <div class="block-sponsor">
+                        <div class="block-sponsor-1">
                            <img src="img/logo/ksum.png" alt="">
                         </div>
                      </div>
