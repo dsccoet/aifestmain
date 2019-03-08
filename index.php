@@ -546,7 +546,7 @@
                         <li class=""><strong>Day 3</strong>  <span>- 22 March 2019</span></li>
                         <li class=""><strong>Day 4</strong>  <span>- 23 March 2019</span></li>
                      </ul>
-                     <a class="link mt-20 gradient-text scroll" href="#accom">Accommodation</a>
+                     <!--<a class="link mt-20 gradient-text scroll" href="#accom">Accommodation</a>-->
                   </div>
                   <div class="col-sm-8 ">
                      <ul class="block-tab">
