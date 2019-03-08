@@ -171,7 +171,7 @@
                         </svg>
                         <p>
                            <strong>DATE</strong>
-                           <span>20 until 24 July 2019</span>
+                           <span>20 until 23 July 2019</span>
                         </p>
                      </div>
                   </div>
