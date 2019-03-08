@@ -171,7 +171,7 @@
                         </svg>
                         <p>
                            <strong>DATE</strong>
-                           <span>20 until 23 July 2019</span>
+                           <span>20 until 24 July 2019</span>
                         </p>
                      </div>
                   </div>
@@ -210,7 +210,7 @@
                         <p>
                            <strong>LOCATION</strong>
                            <span>COET
-                           Thalassery, Kannur </span>
+                           Talassery, Kannur </span>
                         </p>
                      </div>
                   </div>
@@ -557,19 +557,15 @@
                         <li class="active ">
                            <div class="block-date"><strong>Day 1</strong>  <span>- 20 March 2019</span></div>
                            <div class="block-detail">
-                              <span class="time">08:00 AM- 10:00 AM</span>
+                              <span class="time">9:00 AM</span>
                               <span class="topic">Hackathon Registration</span>
                               <div class="block-text">
                                  <p>Onsite registration for teams that have registered online.</p>
                            </div>
                            </div>
                            <div class="block-detail">
-                              <span class="time">10:00 AM - 11:00 AM</span>
-                              <span class="topic">Inaugration</span>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">11:00 AM</span>
-                              <span class="topic">Hackathon begins</span>
+                              <span class="time">10:00 AM</span>
+                              <span class="topic">50 Hrs Hackathon begins</span>
                            </div>
                         </li>
                         <!--Tab-->
@@ -577,163 +573,156 @@
                            <div class="block-date"><strong>Day 2</strong>  <span>- 21 March 2019</span></div>
                            <div class="block-detail">
                               <span class="time">24 Hrs</span>
-                              <span class="topic">hackathon</span>
+                              <span class="topic">Hackathon</span>
                               <div class="block-text">
                                  <p>Continuation of the hackathon.</p>
                               
                            </div>
                         </div>
-                           <div class="block-detail">
-                              <span class="time">10:00 AM</span>
-                              <span class="topic">Events By School of AI, Kerala</span>
-                              
-                           </div>
-                           
                         </li>
                         <!--Tab-->
                         <li>
                            <div class="block-date"><strong>Day 3</strong>  <span>- 22 March 2019</span></div>
                            <div class="block-detail">
-                              <span class="time">08:00</span>
+                              <span class="time">09:00</span>
                               <span class="topic">Registration and verification of Tech Talks + Expo</span>
-                              <div class="block-text">
-                                 
-                              </div>
                            </div>
 
                            <div class="block-detail">
-                              <span class="time">8:00 AM - 4:00 PM</span>
-                              <span class="topic">Hackathon Final Day</span>
-                              <div class="block-text">
-                                 
-                              </div>
+                              <span class="time">9:30 AM</span>
+                              <span class="topic">Inaugration</span>
                            </div>
 
                            <div class="block-detail">
-                              <span class="time">9:40 AM - 10:20 AM</span>
-                              <span class="topic">Welcome Note</span>
-                              <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Moosa Mehar</strong></a> </span>
+                              <span class="time">11:00 AM - 3:45 PM</span>
+                              <span class="topic">Cofee Chat With Experts</span>
                            </div>
 
                            <div class="block-detail">
-                              <span class="time">10:30 AM-11:00 AM</span>
-                              <span class="topic">Keynote Speech</span>
-                              <div class="block-text ">
-                              </div>   
-                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Moosa Mehar</strong></a> </span>
-                              
+                              <span class="time">11:00 AM</span>
+                              <span class="topic">Tressure Hunt Starts</span>
                            </div>
 
                            <div class="block-detail">
-                              <span class="time">11:00 AM-11:10 AM</span>
-                              <span class="topic">Break</span>
-                           </div>
-
-                           <div class="block-detail">
-                              <span class="time">11:15 AM-12:00 PM</span>
-                              <span class="topic">Keynote Speech</span>
-                              <div class="block-text ">
-                              </div>   
-                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Gopikrishnan S</strong></a> </span>
-                              
-                           </div>
-
-                           <div class="block-detail">
-                              <span class="time">12:10 PM-12:45 PM</span>
-                              <span class="topic">Keynote Speech</span>
-                              <div class="block-text ">
-                              </div> 
-                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Enfa Rose George</strong></a> </span>
-                              </div>
-                           
-
-                           <div class="block-detail">
-                              <span class="time">01:40 PM-02:25 PM</span>
-                              <span class="topic">Keynote Speech</span>
-                              <div class="block-text ">
-                              </div>   
-                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Shubi Sareen</strong></a> </span>
-                              
-                           </div>
-
-                              <div class="block-detail">
-                                 <span class="time">02:30 PM-03:15 PM</span>
-                                 <span class="topic">Keynote Speech</span>
-                                 <div class="block-text ">
-                                 </div>
-                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Faris Rahman</strong></a> </span>
-                              
-                           </div>
-
-                           <div class="block-detail">
-                              <span class="time">04:00 PM-04:15 PM</span>
-                              <span class="topic">Break</span>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">04:20 PM-06:00 PM</span>
+                              <span class="time">12:00 PM - 02:00 PM</span>
                               <span class="topic">Hackathon Pitching</span>
                            </div>
+
+                           
+
+                           <!--tech talks-->
+                           <div class="block-detail">
+                              <span class="time">Tech Talks</span>
+                              <div class="block-detail">
+                                 <span class="time">10:30 AM - 11:00 AM</span>
+                                 <span class="topic">Keynote Speech</span>
+                                <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Moosa Mehar</strong></a> </span>
+                              </div>
+
+                              <div class="block-detail">
+                                 <span class="time">11:15 AM-12:00 PM</span>
+                                 <span class="topic">Keynote Speech</span>  
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Gopikrishnan S</strong></a> </span>
+                                 
+                              </div>
+
+                              <div class="block-detail">
+                                 <span class="time">12:15 PM - 12:45 PM</span>
+                                 <span class="topic">Keynote Speech</span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Enfa Rose George</strong></a> </span>
+                              </div>
+                              
+                              <div class="block-detail">
+                                 <span class="time">01:45 PM-02:25 PM</span>
+                                 <span class="topic">Keynote Speech</span>   
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Shubi Sareen</strong></a> </span>
+                                 
+                              </div>
+
+                                 <div class="block-detail">
+                                    <span class="time">02:30 PM-03:10 PM</span>
+                                    <span class="topic">Keynote Speech</span>
+                                    <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Faris Rahman</strong></a> </span>
+                                 
+                              </div>
+                           </div>
+                           <!--end talks-->
 
                         </li>
                         <!--Tab-->
                         <li>
                            <div class="block-date"><strong>Day 4</strong>  <span>- 23 March 2019</span></div>
+
                            <div class="block-detail">
                               <span class="time">9:30 AM</span>
-                              <span class="topic">Keynote Speech</span>
-                              <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Ajinkya Kohli</strong></a> </span>
+                              <span class="topic">Project Expo</span>
                            </div>
+
                            <div class="block-detail">
-                              <span class="time">10:00 AM</span>
-                              <span class="topic">Keynote Speech</span>
-                              <!--<span class="speaker"> <a href="#" class="gradient-text "> <strong >Ajinkya Kohli</strong></a> </span>-->
+                              <span class="time">9:30 AM</span>
+                              <span class="topic">Hack Club Expo</span>
                            </div>
+
                            <div class="block-detail">
-                              <span class="time">10:30 AM</span>
-                              <span class="topic">Keynote Speech</span>
-                              <!--<span class="speaker"> <a href="#" class="gradient-text "> <strong >Ajinkya Kohli</strong></a> </span>-->
+                              <span class="time">3:00 PM</span>
+                              <span class="topic">Treasure Hunt Ends</span>
                            </div>
+
                            <div class="block-detail">
-                              <span class="time">11:00</span>
-                              <span class="topic">Keynote Speech</span>
-                             <!-- <span class="speaker"> <a href="#" class="gradient-text "> <strong >Ajinkya Kohli</strong></a> </span>-->
+                              <span class="time">8:00 PM</span>
+                              <span class="topic">Dinner With Experts</span>
                            </div>
-                           <div class="block-detail">
-                              <span class="time">11:30</span>
-                              <span class="topic">Keynote Speech</span>
-                              <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Kedarnath Narahari</strong></a> </span>
+
+                           <!--tech talks-->
+                           <div class="block-detail" id="stay">
+                              <span class="time">Tech Talks</span>
+                              <div class="block-detail">
+                                 <span class="time">9:30 AM - 10:30 AM</span>
+                                 <span class="topic">Keynote Speech</span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Ajinkya Kohli</strong></a> </span>
+                              </div>
+                              
+                              <div class="block-detail">
+                                    <span class="time">10:30 AM - 11:00 AM</span>
+                                    <span class="topic">Keynote Speech</span>
+                                    <span class="speaker"> <a href="#stay" class="gradient-text "> <strong >Experts From School Of AI</strong></a> </span>
+                                 </div>
+   
+                                 <div class="block-detail">
+                                    <span class="time">11:00 AM - 11:45 AM</span>
+                                    <span class="topic">Keynote Speech</span>
+                                    <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Kedarnath Narahari</strong></a> </span>
+                                 </div>
+                             
+
+                               <div class="block-detail">
+                                 <span class="time">12:00 PM - 2:00 AM</span>
+                                 <span class="topic">Live streaming</span>
+                                 <span class="block-text">Siraj Raval</span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Siraj Raval</strong></a> </span>
+                              </div>
+
+                              <div class="block-detail">
+                                 <span class="time">2:15PM - 3:15 PM</span>
+                                 <span class="topic">Keynote Speech</span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Praveen Sreedhar</strong></a> </span>
+                              </div>
+
+                              <div class="block-detail">
+                                 <span class="time">3:15 PM - 3:45 PM</span>
+                                 <span class="topic">Keynote Speech</span>
+                                 <span class="speaker"> <a href="#stay" class="gradient-text "> <strong >Experts From School of AI</strong></a> </span>
+                              </div>
+
+                              <div class="block-detail">
+                                 <span class="time">4:00 - 4:45</span>
+                                 <span class="topic">Keynote Speech</span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Umang sharma</strong></a> </span>
+                              </div>
                            </div>
-                           <div class="block-detail">
-                              <span class="time">12:00</span>
-                              <span class="topic">Live streaming</span>
-                              <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Siraj Raval</strong></a> </span>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">12:30</span>
-                              <span class="topic">Lunch</span>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">1:30</span>
-                              <span class="topic">Keynote Speech</span>
-                              <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Praveen Sreedhar</strong></a> </span>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">2:15</span>
-                              <span class="topic">Keynote Speech</span>
-                              <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Umang sharma</strong></a> </span>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">3:00</span>
-                              <span class="topic">Networking session</span>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">4:40</span>
-                              <span class="topic">Closing ceremony</span>
-                           </div>
-                           <div class="block-detail">
-                              <span class="time">5:40</span>
-                              <span class="topic">Robo dance</span>
-                           </div>
+
+                           
+                           
                         </li>
                      </ul>
                   </div>

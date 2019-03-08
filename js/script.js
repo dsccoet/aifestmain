@@ -97,7 +97,12 @@
 
    //for the regsiter button countdown
     // Set the date we're counting down to
-    var countDownDate = new Date("Mar 15, 2019 24:00:00").getTime();
+    var countDownDate = new Date("Mar 21, 2019 18:00:00").getTime();
+
+    function change_date(){
+        var replace = document.getElementById('time_change');
+        var countDownDate = new Date(replace).getTime();
+    }
 
     // Update the count down every 1 second
     var x = setInterval(function() {
@@ -123,7 +128,7 @@
         clearInterval(x);
         var elem_1 =  document.getElementById('show');
         elem_1.parentNode.removeChild(elem_1);
-        document.getElementById("show_2").innerHTML = "Registration link will be open soon.";
+        document.getElementById("show_2").innerHTML = "Registration link is closed.";
         var elem = document.getElementById('clear');
         var elem_2 = document.getElementById('note');
         elem.parentNode.removeChild(elem);
