@@ -171,7 +171,7 @@
                         </svg>
                         <p>
                            <strong>DATE</strong>
-                           <span>20 until 24 July 2019</span>
+                           <span>20 until 23 July 2019</span>
                         </p>
                      </div>
                   </div>
@@ -209,8 +209,8 @@
                         </svg>
                         <p>
                            <strong>LOCATION</strong>
-                           <span>COET
-                           Talassery, Kannur </span>
+                           <span>College of Engineering Thalassery
+                           Thalassery, Kannur </span>
                         </p>
                      </div>
                   </div>
@@ -485,17 +485,15 @@
                            <li>Hackathon</li>
                            <li>Project Expo</li>
                            <li>Tech Talk</li>
-                           <li>Treassure Hunt</li>
-                           <li>Pannel Discussion</li>
+                           <li>Treasure Hunt</li>
+                           <li>Panel Discussion</li>
                            <li>Robo Cultural Fest</li>
                         </ul>
                      </div>
                      <div class="col-md-6">
                         <ul class="block-topic">
-                           <li>Paper Presentation</li>
                            <li>Live Session With Siraj Raval</li>
                            <li>Coffee Chat With Experts</li>
-                           <li>Hackathon Pitching</li>
                            <li>Project Expo</li>
                            <li>Expo by Hack Club</li>
                         </ul>
