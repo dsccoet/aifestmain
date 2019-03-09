@@ -304,7 +304,7 @@
                         </div>
                         <div class="block-info-2">
                            <p>
-                              <strong>Ajinkya Kohli</strong>
+                              <strong>Ajinkya Kolhe</strong>
                               <span>Google </span>
                            </p>
                            <ul class="block-social ">
