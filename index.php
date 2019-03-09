@@ -409,6 +409,25 @@
                      </div>
                   </div>
                </div>
+               <!--<div class="col-sm-3 pd-0">
+                  <div class="block-speaker">
+                     <div class="block-img overlay soft">
+                        <div class="background-img">
+                           <img src="img/guests/doc.png" alt="">
+                        </div>
+                        <div class="block-info-2">
+                           <p>
+                              <strong>Dr.Mohan Noone</strong>
+                              <span>Machine Learning Expert and Neurologist</span>
+                           </p>
+                           <ul class="block-social ">
+                              <li><a href="https://twitter.com/mlnoone?lang=en"><i class="icon-twitter"></i></a></li>
+                              <li><a href="https://in.linkedin.com/in/mlnoone"><i class="icon-linkedin"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>-->
                <div class="col-sm-3 pd-0">
                   <div class="block-speaker">
                      <div class="block-img overlay soft">
