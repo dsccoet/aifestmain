@@ -676,7 +676,7 @@
                               <div class="block-detail">
                                  <span class="time">9:30 AM - 10:30 AM</span>
                                  <span class="topic">Keynote Speech</span>
-                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Ajinkya Kohli</strong></a> </span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Ajinkya Kolhe</strong></a> </span>
                               </div>
                               
                               <div class="block-detail">
