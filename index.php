@@ -409,7 +409,7 @@
                      </div>
                   </div>
                </div>
-               <!--<div class="col-sm-3 pd-0">
+               <div class="col-sm-3 pd-0">
                   <div class="block-speaker">
                      <div class="block-img overlay soft">
                         <div class="background-img">
@@ -427,7 +427,7 @@
                         </div>
                      </div>
                   </div>
-               </div>-->
+               </div>
                <div class="col-sm-3 pd-0">
                   <div class="block-speaker">
                      <div class="block-img overlay soft">
