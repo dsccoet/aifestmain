@@ -776,7 +776,7 @@
                <div class="row">
                   <div class="col-sm-8 col-sm-offset-2 mb-130 text-center">
                      <h1 class="title">Register Tickets</h1>
-                     <p class="title-lead mt-10">For both the Talks and Hackathon, there are only limited number of tickets. We will send emails for all those who have been selected within a couple of days after the registration is closed. The amount mentioned for the tickets should be paid online if your tickets are confirmed </p>
+                     <p class="title-lead mt-10">The 50Hr hackathon starts from march 20th to 22nd. Food and beverages will be provided for both the tickets </p>
                   </div>
                </div>
                <!--End row-->
