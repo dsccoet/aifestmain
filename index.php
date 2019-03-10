@@ -967,7 +967,7 @@
                      <div class="block-info-3">
                         <p>
                            Phone: 9961362773 | 7012214123 <br>
-                           Email : <a href="mailto:aparnaajay@iedccoet.org" class="gradient-text">aparnaajay@iedccoet.org</a>
+                           Email : <a href="mailto:help@iedccoet.org" class="gradient-text">help@iedccoet.org</a>
                         </p>
                      </div>
                   </div>
