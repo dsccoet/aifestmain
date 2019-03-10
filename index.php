@@ -668,7 +668,7 @@
                                  
                               </div>
                               
-                              </div>
+                              
 
                                  <div class="block-detail">
                                     <span class="time">03:15 PM-04:00 PM</span>
