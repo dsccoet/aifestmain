@@ -729,7 +729,6 @@
                                <div class="block-detail">
                                  <span class="time">12:00 PM - 2:00 PM</span>
                                  <span class="topic">Live streaming</span>
-                                 <span class="block-text">Siraj Raval</span>
                                  <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Siraj Raval</strong></a> </span>
                               </div>
 
