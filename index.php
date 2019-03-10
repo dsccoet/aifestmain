@@ -727,7 +727,7 @@
                              
 
                                <div class="block-detail">
-                                 <span class="time">12:00 PM - 2:00 AM</span>
+                                 <span class="time">12:00 PM - 2:00 PM</span>
                                  <span class="topic">Live streaming</span>
                                  <span class="block-text">Siraj Raval</span>
                                  <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Siraj Raval</strong></a> </span>
@@ -746,7 +746,7 @@
                               </div>
 
                               <div class="block-detail">
-                                 <span class="time">4:00 - 4:45</span>
+                                 <span class="time">4:00 PM - 4:45 PM</span>
                                  <span class="topic">Keynote Speech</span>
                                  <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Umang Sharma</strong></a> </span>
                               </div>
