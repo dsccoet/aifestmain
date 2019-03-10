@@ -110,7 +110,7 @@
                <!--Row-->
                <div class="row">
                   <div class="col-sm-8 col-sm-offset-2 mb-100 text-center">
-                     <h1 class="title">What is AI Fest</h1>
+                     <h1 class="title">What is AI Fest ?</h1>
                      <p class="title-lead mt-20">AI fest builds a platform for AI enthusiasts to exhibit their project infront of industrial experts . This international event will provide you a marvellous opportunity to connect , develop ,overcome ,benefit and conquer your dreams and goals .</p>
                   </div>
                </div>
@@ -171,7 +171,7 @@
                         </svg>
                         <p>
                            <strong>DATE</strong>
-                           <span>20 until 23 March 2019</span>
+                           <span>20 to 23 March 2019</span>
                         </p>
                      </div>
                   </div>
@@ -209,8 +209,8 @@
                         </svg>
                         <p>
                            <strong>LOCATION</strong>
-                           <span>College of Engineering Thalassery
-                           Thalassery, Kannur </span>
+                           <span>College of Engineering Thalassery,
+                           PO Eranholi, Thalassery </span>
                         </p>
                      </div>
                   </div>
@@ -270,7 +270,7 @@
                <div class="row">
                   <div class="col-sm-8 col-sm-offset-2 mb-100 text-center">
                      <h1 class="title">Speakers</h1>
-                     <p class="title-lead mt-10">We are bringing you the perfect combination of content and experience to ignite your <br>heart equip your mind and spark your skills.</p>
+                     <p class="title-lead mt-10">We are bringing you the perfect combination of content and experience to ignite your <br>heart, equip your mind and spark your skills.</p>
                   </div>
                </div>
                <!--End row-->
@@ -515,6 +515,7 @@
                            <li>Coffee Chat With Experts</li>
                            <li>Project Expo</li>
                            <li>Expo by Hack Club</li>
+                           <li>Dinner With Experts</li>
                         </ul>
                      </div>
                   </div>
@@ -536,7 +537,7 @@
                <div class="row">
                   <div class="col-sm-8 col-sm-offset-2 mb-100 text-center">
                      <h1 class="title">Event Schedule</h1>
-                     <p class="title-lead mt-10">We are very excited about the programs being planned for AI Fest 2.0 <br> this summer in Thalassery, Kannur.</p>
+                     <p class="title-lead mt-10">We are very excited about the programmes planned for AI Fest 2.0 <br> this summer in Thalassery, Kannur.</p>
                   </div>
                </div>
                <!--End row-->
@@ -606,21 +607,26 @@
 
                            <div class="block-detail">
                               <span class="time">9:30 AM</span>
-                              <span class="topic">Inaugration</span>
+                              <span class="topic">Inauguration</span>
                            </div>
 
                            <div class="block-detail">
                               <span class="time">11:00 AM - 3:45 PM</span>
-                              <span class="topic">Cofee Chat With Experts</span>
+                              <span class="topic">Coffee Chat With Experts</span>
                            </div>
 
                            <div class="block-detail">
                               <span class="time">11:00 AM</span>
-                              <span class="topic">Tressure Hunt Starts</span>
+                              <span class="topic">Treasure Hunt Starts</span>
                            </div>
 
                            <div class="block-detail">
-                              <span class="time">12:00 PM - 02:00 PM</span>
+                              <span class="time">12:00 PM</span>
+                              <span class="topic">Hack Club Expo</span>
+                           </div>
+                           
+                           <div class="block-detail">
+                              <span class="time">1:00 PM - 3:00 PM</span>
                               <span class="topic">Hackathon Pitching</span>
                            </div>
 
@@ -658,7 +664,7 @@
                                  <div class="block-detail">
                                     <span class="time">02:30 PM-03:10 PM</span>
                                     <span class="topic">Keynote Speech</span>
-                                    <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Faris Rahman</strong></a> </span>
+                                    <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Fariz Rahman</strong></a> </span>
                                  
                               </div>
                            </div>
@@ -721,7 +727,7 @@
                               <div class="block-detail">
                                  <span class="time">2:15PM - 3:15 PM</span>
                                  <span class="topic">Keynote Speech</span>
-                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Praveen Sreedhar</strong></a> </span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Praveen Sridhar</strong></a> </span>
                               </div>
 
                               <div class="block-detail">
@@ -733,7 +739,7 @@
                               <div class="block-detail">
                                  <span class="time">4:00 - 4:45</span>
                                  <span class="topic">Keynote Speech</span>
-                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Umang sharma</strong></a> </span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Umang Sharma</strong></a> </span>
                               </div>
                            </div>
 
@@ -758,7 +764,7 @@
                <!--Row-->
                <div class="row">
                   <div class="col-sm-12  text-center  front-p">
-                     <h1 class="title">Time left until the conference start </h1>
+                     <h1 class="title">Time left until the conference starts </h1>
                      <p class="title-lead mt-10 mb-20">20 to 23rd March 2019 </p>
                      <span class="countdown gradient-text"></span>
                   </div>
@@ -1074,8 +1080,8 @@
                   <div class="col-sm-8 col-sm-offset-2  ">
                      <div class="block-faq mb-50">
                         <h4 class="mb-10">What is AI Fest 2.0 ?</h4>
-                        <p>AI FEST 2.0 is a conference based on artificial intelligence packed with exciting venets and talks by experts from various leading companies and 
-                        organisation.</p>
+                        <p>AI FEST 2.0 is a conference based on artificial intelligence packed with exciting events and talks by experts from various leading companies and 
+                        organizations.</p>
                      </div>
                      <div class="block-faq mb-50">
                         <h4 class="mb-10">How will AI Fest 2.0 benefit you ?</h4>
