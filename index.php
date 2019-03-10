@@ -667,6 +667,15 @@
                                     <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Fariz Rahman</strong></a> </span>
                                  
                               </div>
+                              
+                              </div>
+
+                                 <div class="block-detail">
+                                    <span class="time">03:15 PM-04:00 PM</span>
+                                    <span class="topic">Keynote Speech</span>
+                                    <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Dr. Mohan Noone</strong></a> </span>
+                                 
+                              </div>
                            </div>
                            <!--end talks-->
 
