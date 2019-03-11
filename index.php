@@ -516,6 +516,7 @@
                            <li>Project Expo</li>
                            <li>Expo by Hack Club</li>
                            <li>Dinner With Experts</li>
+                           <li>Tech Management Quiz</li>
                         </ul>
                      </div>
                   </div>
