@@ -716,19 +716,13 @@
                               <div class="block-detail">
                                  <span class="time">9:30 AM - 10:30 AM</span>
                                  <span class="topic">Keynote Speech</span>
-                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Ajinkya Kolhe</strong></a> </span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Kedharnath Narahari</strong></a> </span>
                               </div>
                               
                               <div class="block-detail">
-                                    <span class="time">10:30 AM - 11:00 AM</span>
+                                    <span class="time">10:30 AM - 11:30 AM</span>
                                     <span class="topic">Keynote Speech</span>
-                                    <span class="speaker"> <a href="#stay" class="gradient-text "> <strong >Experts From School Of AI</strong></a> </span>
-                                 </div>
-   
-                                 <div class="block-detail">
-                                    <span class="time">11:00 AM - 11:45 AM</span>
-                                    <span class="topic">Keynote Speech</span>
-                                    <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Kedarnath Narahari</strong></a> </span>
+                                    <span class="speaker"> <a href="#stay" class="gradient-text "> <strong >Ajinkya Kohle</strong></a> </span>
                                  </div>
                              
 
