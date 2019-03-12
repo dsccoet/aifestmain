@@ -618,6 +618,11 @@
 
                            <div class="block-detail">
                               <span class="time">11:00 AM</span>
+                              <span class="topic">Techno Management Quiz</span>
+                           </div>
+
+                           <div class="block-detail">
+                              <span class="time">11:00 AM</span>
                               <span class="topic">Treasure Hunt Starts</span>
                            </div>
 
