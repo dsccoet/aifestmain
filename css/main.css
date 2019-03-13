@@ -1429,3 +1429,7 @@ select.error {
 .decorate{
     color: white;
 }
+
+.pad{
+    margin-top: 5px;
+}
