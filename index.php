@@ -607,7 +607,10 @@
 
                            <div class="block-detail">
                               <span class="time">9:30 AM</span>
-                              <span class="topic">Inauguration</span>
+                              <span class="topic">Inauguration By Sanbot</span>
+                              <div class="block-text">
+                                 <p>Oppurtunity to interact with Sanbot.</p>
+                           </div>
                            </div>
 
                            <div class="block-detail">
@@ -635,7 +638,10 @@
                               <span class="topic">Hackathon Pitching</span>
                            </div>
 
-                           
+                           <div class="block-detail">
+                              <span class="time">7:30 PM</span>
+                              <span class="topic">Dinner With Experts</span>
+                           </div>
 
                            <!--tech talks-->
                            <div class="block-detail">
@@ -705,7 +711,7 @@
                            </div>
 
                            <div class="block-detail">
-                              <span class="time">8:00 PM</span>
+                              <span class="time">7:30 PM</span>
                               <span class="topic">Dinner With Experts</span>
                            </div>
 
