@@ -505,7 +505,6 @@
                            <li>Project Expo</li>
                            <li>Tech Talk</li>
                            <li>Treasure Hunt</li>
-                           <li>Panel Discussion</li>
                            <li>Robo Cultural Fest</li>
                         </ul>
                      </div>
