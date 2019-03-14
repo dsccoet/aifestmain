@@ -7,7 +7,7 @@
       <!-- Metas -->
       <meta charset="utf-8">
       <title>AI Fest</title>
-      <meta name="description" content="">
+      <meta name="description" content="AI fest builds a platform for AI enthusiasts to exhibit their project infront of industrial experts . This international event will provide you a marvellous opportunity to connect , develop ,overcome ,benefit and conquer your dreams and goals .">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <!-- Css -->
       <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
@@ -512,7 +512,6 @@
                         <ul class="block-topic">
                            <li>Live Session With Siraj Raval</li>
                            <li>Coffee Chat With Experts</li>
-                           <li>Project Expo</li>
                            <li>Expo by Hack Club</li>
                            <li>Dinner With Experts</li>
                            <li>Tech Management Quiz</li>
