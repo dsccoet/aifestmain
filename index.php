@@ -705,6 +705,16 @@
                            </div>
 
                            <div class="block-detail">
+                              <span class="time">9:30 AM - 3:30 PM</span>
+                              <span class="topic">Machine Learning Workshop</span>
+                           </div>
+
+                           <div class="block-detail">
+                              <span class="time">11:00 AM - 4:00 PM</span>
+                              <span class="topic">Ethical Hacking Workshop</span>
+                           </div>
+
+                           <div class="block-detail">
                               <span class="time">3:00 PM</span>
                               <span class="topic">Treasure Hunt Ends</span>
                            </div>
