@@ -68,7 +68,7 @@
                               <li><a class="scroll" href="#wrapper">Home</a></li>
                               <li><a class="scroll" href="#about">About</a></li>
                               <li><a class="scroll" href="#speakers">Speakers</a></li>
-                              <li><a class="scroll" href="#topics">Topics</a></li>
+                              <li><a class="scroll" href="#topics">Events</a></li>
                               <li><a class="scroll" href="#schedule">Schedule</a></li>
                               <li><a class="scroll" href="#tickets">Tickets</a></li>
                               <li><a class="scroll" href="#expo">Expo Registration</a></li>
@@ -525,6 +525,73 @@
                   </div>
                </div>
                <!--end of row-->
+            </div>
+            <div class="container">
+               <div class="container">
+                 <h2>Carousel Example</h2>
+                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                   <!-- Indicators -->
+                   <ol class="carousel-indicators">
+                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                     <li data-target="#myCarousel" data-slide-to="1"></li>
+                     <li data-target="#myCarousel" data-slide-to="2"></li>
+                     <li data-target="#myCarousel" data-slide-to="3"></li>
+                     <li data-target="#myCarousel" data-slide-to="4"></li>
+                     <li data-target="#myCarousel" data-slide-to="5"></li>
+                     <li data-target="#myCarousel" data-slide-to="6"></li>
+                     <li data-target="#myCarousel" data-slide-to="7"></li>
+                     <li data-target="#myCarousel" data-slide-to="8"></li>
+                     <li data-target="#myCarousel" data-slide-to="9"></li>
+                   </ol>
+
+                   <!-- Wrapper for slides -->
+                   <div class="carousel-inner">
+
+                     <div class="item active">
+                       <img src="pst/001.png" alt="Los Angeles" style="width:100%;">
+                     </div>
+
+                     <div class="item">
+                       <img src="pst/002.png" alt="Chicago" style="width:100%;">
+                     </div>
+                   
+                     <div class="item">
+                       <img src="pst/003.png" alt="New York" style="width:100%;">
+                     </div>
+
+                     <div class="item">
+                       <img src="pst/004.png" alt="New York" style="width:100%;">
+                     </div>
+
+                     <div class="item">
+                       <img src="pst/005.png" alt="New York" style="width:100%;">
+                     </div>
+
+                     <div class="item">
+                       <img src="pst/006.png" alt="New York" style="width:100%;">
+                     </div>
+
+                     <div class="item">
+                       <img src="pst/007.png" alt="New York" style="width:100%;">
+                     </div>
+
+                     <div class="item">
+                       <img src="pst/008.png" alt="New York" style="width:100%;">
+                     </div>
+                 
+                   </div>
+
+                   <!-- Left and right controls -->
+                   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                     <span class="glyphicon glyphicon-chevron-left"></span>
+                     <span class="sr-only">Previous</span>
+                   </a>
+                   <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                     <span class="glyphicon glyphicon-chevron-right"></span>
+                     <span class="sr-only">Next</span>
+                   </a>
+                 </div>
+               </div>
             </div>
          </section>
          <!--End topics section-->
@@ -1230,6 +1297,8 @@
       <script src="js/instafeed.min.js" type="text/javascript"></script>
       <script src="js/script.js" type="text/javascript"></script>
       <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBbGQXiGt-6UAmOFFdSzYI-byeE7ewBuVM&callback=initializeMap"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
       <!-- Google analytics -->
       <!-- End google analytics -->
    </body>
