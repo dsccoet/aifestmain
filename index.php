@@ -1017,6 +1017,17 @@
                         </div>
                      </div>
                   </div>
+
+                  <div class="col-sm-12  col-sm-push-2 text-center pad">
+                     <div class="col-md-2 col-sm-2">
+                        <div class="block-sponsor">
+                           <img src="img/logo/sm.png" alt="">
+                        </div>
+                     </div>
+                  </div>
+                     
+                  </div>
+               </div>
                </div>
                <!--End row-->
             </div>
