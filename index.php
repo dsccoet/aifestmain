@@ -872,6 +872,30 @@
                   </div>
                </div>
                <!--End row-->
+               <!--Row-->
+               <div class="row">
+                  <div class="col-sm-8 col-sm-offset-2  ">
+                     <div class="block-faq mb-50">
+                        <h4 class="mb-10">How to register for tech talks?</h4>
+                        <p class="title-lead">If coming for a single day then buy the ticket name <span class="gradient-text no-break">"22nd March"</span> or <span class="gradient-text no-break">"23rd March"</span> according to your convenience.</p>
+                        <br>
+                        <p class="title-lead">If coming for tech talks on both the days then buy the ticket named <span class="gradient-text no-break">"2 Day Ticket"</span>.</p>
+                     </div>
+                     <div class="block-faq mb-50">
+                        <h4 class="mb-10">How to use promo codes ?</h4>
+                        <p class="title-lead">If you have a promocode, then use it to avail the discount by clicking <span class="gradient-text no-break">"Got a discount code"</span> after clicking the <span class="gradient-text no-break">"Register Now"</span> button.</p>
+                     </div>
+                     <div class="block-faq mb-50">
+                        <h4 class="mb-10">How to register for the hackathon ?</h4>
+                        <p class="title-lead">Click on the <span class="gradient-text no-break">"Register Now"</span> button for hackathon registration.</p><br>
+                        <p class="title-lead">Add the team leader details.</p><br>
+                        <p class="title-lead">Increase the number of tickets as per team members.(If 4 members buy 4 tickets)</p><br>
+                        <p class="title-lead">Add member details.</p><br>
+                        <p class="title-lead">Make the payment.</p><br>
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
             </div>
             <!--End container-->
             <!--Container-->
@@ -1018,13 +1042,13 @@
                      </div>
                   </div>
 
-                  <!--<div class="col-sm-12  col-sm-push-2 text-center pad">
+                  <div class="col-sm-12  col-sm-push-2 text-center pad">
                      <div class="col-md-2 col-sm-2">
                         <div class="block-sponsor">
                            <img src="img/logo/sm.png" alt="">
                         </div>
                      </div>
-                  </div>-->
+                  </div>
                      
                   </div>
                </div>
