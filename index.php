@@ -280,32 +280,32 @@
                    <div class="carousel-inner">
 
                      <div class="item active">
-                       <img src="pst/001.png" alt="Los Angeles" style="width:100%;">
+                       <img src="pst/001.png"  style="width:100%;">
                      </div>
 
                      <div class="item">
-                       <img src="pst/002.png" alt="Chicago" style="width:100%;">
+                       <img src="pst/002.png" style="width:100%;">
                      </div>
                    
                      <div class="item">
-                       <img src="pst/003.png" alt="New York" style="width:100%;">
+                       <img src="pst/003.png" style="width:100%;">
                      </div>
 
                      <div class="item">
-                       <img src="pst/004.png" alt="New York" style="width:100%;">
+                       <img src="pst/004.png"style="width:100%;">
                      </div>
 
                      <div class="item">
-                       <img src="pst/005.png" alt="New York" style="width:100%;">
+                       <img src="pst/005.png" style="width:100%;">
                      </div>
 
 
                      <div class="item">
-                       <img src="pst/007.png" alt="New York" style="width:100%;">
+                       <img src="pst/007.png" style="width:100%;">
                      </div>
 
                      <div class="item">
-                       <img src="pst/008.png" alt="New York" style="width:100%;">
+                       <img src="pst/008.png" style="width:100%;">
                      </div>
                  
                    </div>
@@ -892,6 +892,11 @@
                         <p class="title-lead">Increase the number of tickets as per team members.(If 4 members buy 4 tickets)</p><br>
                         <p class="title-lead">Add member details.</p><br>
                         <p class="title-lead">Make the payment.</p><br>
+                     </div>
+                     <div class="block-faq mb-50">
+                        <h4 class="mb-10">For more details contact:</h4>
+                        <p class="title-lead"><span class="gradient-text no-break">Vighnesh</span> +91 8921830451</p><br>
+                        <p class="title-lead"><span class="gradient-text no-break">Aparna Ajay</span> +91 9961362773</p><br>
                      </div>
                   </div>
                </div>
