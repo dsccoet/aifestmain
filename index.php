@@ -895,8 +895,8 @@
                      </div>
                      <div class="block-faq mb-50">
                         <h4 class="mb-10">For more details contact:</h4>
-                        <p class="title-lead"><span class="gradient-text no-break">Vighnesh</span>: +91 8921830451</p><br>
-                        <p class="title-lead"><span class="gradient-text no-break">Aparna Ajay</span>: +91 9961362773</p><br>
+                        <p class="title-lead"><span class="gradient-text no-break">Vighnesh</span> +91 8921830451</p><br>
+                        <p class="title-lead"><span class="gradient-text no-break">Aparna Ajay</span> +91 9961362773</p><br>
                      </div>
                   </div>
                </div>
