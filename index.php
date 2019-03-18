@@ -929,8 +929,10 @@
                                  <li>chance to win 50,000 prize money</li>
                                  <li>Limited areas access</li>
                                  <li>Free food and beverages</li>
-                                 <li><button onclick="popup('50-hrs-hackathon-004433');" class="but mt-30">Register Now</button><noscript id="tsNoJsMsg">Javascript on your browser is not enabled.</noscript><script src="//www.townscript.com/popup-widget/townscript-widget.nocache.js" type="text/javascript"></script></li>
-
+                                 <li id="clear-hack"><button onclick="popup('50-hrs-hackathon-004433');" class="but mt-30">Register Now</button><noscript id="tsNoJsMsg">Javascript on your browser is not enabled.</noscript><script src="//www.townscript.com/popup-widget/townscript-widget.nocache.js" type="text/javascript"></script></li>
+                                 <li id="note-hack">Link expires in:</li>
+                                 <li><p id="show-hack"></p></li>
+                                 <li ><p id="show_hack_2" class="decorate"></p></li>
                               </ul>
                            </li>
                         </ul>
