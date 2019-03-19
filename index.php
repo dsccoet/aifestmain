@@ -898,6 +898,8 @@
                         <p class="title-lead"><span class="gradient-text no-break">Vighnesh</span> +91 8921830451</p><br>
                         <p class="title-lead"><span class="gradient-text no-break">Aparna Ajay</span> +91 9961362773</p><br>
                      </div>
+                     <div class="block-faq mb-50">
+                        <h4 class="mb-10"><span class="gradient-text">*</span>There are no promo codes for Hackathon</h4>
                   </div>
                </div>
                <!--End row-->
