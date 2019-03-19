@@ -98,7 +98,7 @@
    //for the regsiter button countdown
     // Set the date we're counting down to
     var countDownDate = new Date("Mar 21, 2019 18:00:00").getTime();
-    var countDownDate2 = new Date("Mar 19, 2019 18:00:00").getTime();
+    var countDownDate2 = new Date("Mar 20, 2019 9:00:00").getTime();
 
 
     function change_date(){

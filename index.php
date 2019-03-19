@@ -404,7 +404,7 @@
                         </div>
                         <div class="block-info-2">
                            <p>
-                              <strong>Shubhi sareen</strong>
+                              <strong>Shubhi Sareen</strong>
                               <span>Google intern </span>
                            </p>
                            <ul class="block-social ">
@@ -731,7 +731,7 @@
                               <div class="block-detail">
                                  <span class="time">01:45 PM-02:25 PM</span>
                                  <span class="topic">Keynote Speech</span>   
-                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Shubi Sareen</strong></a> </span>
+                                 <span class="speaker"> <a href="#speakers" class="gradient-text "> <strong >Shubhi Sareen</strong></a> </span>
                                  
                               </div>
 
