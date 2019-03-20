@@ -1438,3 +1438,7 @@ select.error {
     display: inline-block;
     font-size: 16px;
 }
+
+.red-text{
+    color: red;
+}
