@@ -97,8 +97,8 @@
 
    //for the regsiter button countdown
     // Set the date we're counting down to
-    var countDownDate = new Date("Mar 21, 2019 18:00:00").getTime();
-    var countDownDate2 = new Date("Mar 20, 2019 9:00:00").getTime();
+    var countDownDate = new Date("Mar 22, 2019 8:00:00").getTime();
+    var countDownDate2 = new Date("Mar 19, 2019 18:00:00").getTime();
 
 
     function change_date(){
@@ -122,24 +122,16 @@
         
       // Find the distance between now and the count down date
       var distance = countDownDate - now;
-      var distance_2 = countDownDate2 - now;
         
       // Time calculations for days, hours, minutes and seconds
       var days = Math.floor(distance / (1000 * 60 * 60 * 24));
       var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
       var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
       var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-      var days2 = Math.floor(distance_2 / (1000 * 60 * 60 * 24));
-      var hours2 = Math.floor((distance_2 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-      var minutes2 = Math.floor((distance_2 % (1000 * 60 * 60)) / (1000 * 60));
-      var seconds2 = Math.floor((distance_2 % (1000 * 60)) / 1000);
         
       // Output the result in an element with id="demo"
         document.getElementById("show").innerHTML = days + "d " + hours + "h "
         + minutes + "m " + seconds + "s ";
-        document.getElementById("show-hack").innerHTML = days2 + "d " + hours2 + "h "
-        + minutes2 + "m " + seconds2 + "s ";
         
       // If the count down is over, write some text 
       if (distance < 0) {
@@ -154,17 +146,7 @@
 
       }
 
-      if (distance_2 < 0) {
-        clearInterval(x);
-        var elem_1 =  document.getElementById('show-hack');
-        elem_1.parentNode.removeChild(elem_1);
-        document.getElementById("show_hack_2").innerHTML = "Registration link is closed.";
-        var elem = document.getElementById('clear-hack');
-        var elem_2 = document.getElementById('note-hack');
-        elem.parentNode.removeChild(elem);
-        elem_2.parentNode.removeChild(elem_2);
-
-      }
+      
     }, 1000);
 
 

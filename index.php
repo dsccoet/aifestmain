@@ -936,11 +936,7 @@
                                  <li>chance to win 50,000 prize money</li>
                                  <li>Limited areas access</li>
                                  <li>Free food and beverages</li>
-                                 
-                                 <li id="clear-hack"><button onclick="popup('50-hrs-hackathon-004433');" class="but mt-30">Register Now</button><noscript id="tsNoJsMsg">Javascript on your browser is not enabled.</noscript><script src="//www.townscript.com/popup-widget/townscript-widget.nocache.js" type="text/javascript"></script></li>
-                                 <li id="note-hack">Link expires in:</li>
-                                 <li><p id="show-hack"></p></li>
-                                 <li ><p id="show_hack_2" class="decorate"></p></li>
+                                 <li ><p id="show_hack_2" class="decorate">Registration link is closed.</p></li>
                               </ul>
                            </li>
                         </ul>
@@ -949,11 +945,12 @@
                         <ul class="block-tickets">
                            <li>
                               <ul class="block-ticket active">
-                                 <li class="block-price"><span class="price"><span class="cur">₹</span>1,800</span><span class="block-type clear">All Days talks</span></li>
+                                 <li class="block-price"><span class="price"><span class="cur">₹</span>1,800</span><span class="block-type clear">For 2 Days talks</span></li>
                                  <li>Access to the talks</li>
                                  <li>All days lunch</li>
                                  <li>Swags and Tshirts</li>
                                  <li><span class="red-text">*</span><span class="gradient-text">Only 60 tickets left</span></li>
+                                 <li><span class="red-text">*</span><span class="gradient-text">Only limited no. of tickets for spot registration.<br>Will be closed once filled</span></li>
                                  <li id="clear"><button onclick="popup('a-i-fest-20-tech-talks-122313');" class="but mt-30">Register Now</button><noscript id="tsNoJsMsg">Javascript on your browser is not enabled.</noscript><script src="//www.townscript.com/popup-widget/townscript-widget.nocache.js" type="text/javascript"></script></li>
                                  <li id="note">Link expires in:</li>
                                  <li><p id="show"></p></li>
