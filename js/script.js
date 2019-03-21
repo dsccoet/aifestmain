@@ -137,7 +137,7 @@
         clearInterval(x);
         var elem_1 =  document.getElementById('show');
         elem_1.parentNode.removeChild(elem_1);
-        document.getElementById("show_2").innerHTML = "Registration link will be open soon.";
+        document.getElementById("show_2").innerHTML = "Registration link is closed";
         var elem = document.getElementById('clear');
         var elem_2 = document.getElementById('note');
         elem.parentNode.removeChild(elem);
